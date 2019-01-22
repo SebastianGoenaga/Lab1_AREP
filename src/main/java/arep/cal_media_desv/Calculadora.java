@@ -9,7 +9,7 @@ import java.util.LinkedList;
  * @author Sebastian Goenaga
  * 
  * Calculadora de medias y desviaciones
- * estandar
+ * estandararep
  *
  */
 public class Calculadora 
