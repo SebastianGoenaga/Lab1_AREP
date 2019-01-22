@@ -3,8 +3,8 @@
 
 En este proyecto se trabajó una calculadora estadística la cual es capaz de calcular la media muestral y desviación estandar de un conjunto de datos determinados.
 Para ello se utilizaron las siguientes formulas:
-![formula1](formula1.jpg)
-![formula2](formula2.jpg)
+![formula1](Fotos/formula1.jpg)
+![formula2](Fotos/formula2.jpg)
 
  
 
@@ -33,4 +33,4 @@ Para modificar el objeto de análisis, se debe modificar el archivo datos.txt qu
 
 ## License
 
-Este proyecto está licenciado bajo Apache License 2.0 - ver [LICENSE.md](LICENSE.md) para más detalles.
+Este proyecto está licenciado bajo Apache License 2.0 - ver [LICENSE](LICENSE) para más detalles.
