@@ -21,6 +21,9 @@ java -cp target/cal_media_desv-0.0.1-SNAPSHOT.JAR arep.cal_media_desv.Calculador
 
 Únicamente necesita tener instalado Java en su computadora para que el comando funcione.
 
+### Documentación
+
+La documentación completa se encuentra en la carpeta doc.
 
 
 ## Probando
